@@ -2,7 +2,7 @@ Bootstrap: shub
 From: singularityhub/ubuntu
 
 %runscript
-    exec echo "The runscript is the containers default runtime command!"
+    exec echo "The runscript is the containers default runtime command!!"
 
 %environment
     VARIABLE=MEATBALLVALUE
